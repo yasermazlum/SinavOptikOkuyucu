@@ -1,0 +1,14 @@
+D:\MyProjects\DotNet\SinavOptikOkuyucu\bin\Debug\net8.0\SinavOptikOkuyucu.exe
+D:\MyProjects\DotNet\SinavOptikOkuyucu\bin\Debug\net8.0\SinavOptikOkuyucu.deps.json
+D:\MyProjects\DotNet\SinavOptikOkuyucu\bin\Debug\net8.0\SinavOptikOkuyucu.runtimeconfig.json
+D:\MyProjects\DotNet\SinavOptikOkuyucu\bin\Debug\net8.0\SinavOptikOkuyucu.dll
+D:\MyProjects\DotNet\SinavOptikOkuyucu\bin\Debug\net8.0\SinavOptikOkuyucu.pdb
+D:\MyProjects\DotNet\SinavOptikOkuyucu\obj\Debug\net8.0\SinavOptikOkuyucu.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\DotNet\SinavOptikOkuyucu\obj\Debug\net8.0\SinavOptikOkuyucu.AssemblyInfoInputs.cache
+D:\MyProjects\DotNet\SinavOptikOkuyucu\obj\Debug\net8.0\SinavOptikOkuyucu.AssemblyInfo.cs
+D:\MyProjects\DotNet\SinavOptikOkuyucu\obj\Debug\net8.0\SinavOptikOkuyucu.csproj.CoreCompileInputs.cache
+D:\MyProjects\DotNet\SinavOptikOkuyucu\obj\Debug\net8.0\SinavOptikOkuyucu.dll
+D:\MyProjects\DotNet\SinavOptikOkuyucu\obj\Debug\net8.0\refint\SinavOptikOkuyucu.dll
+D:\MyProjects\DotNet\SinavOptikOkuyucu\obj\Debug\net8.0\SinavOptikOkuyucu.pdb
+D:\MyProjects\DotNet\SinavOptikOkuyucu\obj\Debug\net8.0\SinavOptikOkuyucu.genruntimeconfig.cache
+D:\MyProjects\DotNet\SinavOptikOkuyucu\obj\Debug\net8.0\ref\SinavOptikOkuyucu.dll
